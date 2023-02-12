@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'HCISample'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_A277A2FD0D5B453C8B01801EB1B39008 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_785FE4202A514C53911C67F0FBDE8969 }}
